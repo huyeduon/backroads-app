@@ -29,7 +29,7 @@ const Footer = () => {
         <li>
           <a
             href='https://www.twitter.com'
-            target='#footer'
+            target='_parent'
             className='footer-icon'
           >
             <i className='fab fa-facebook' />
@@ -38,7 +38,7 @@ const Footer = () => {
         <li>
           <a
             href='https://www.twitter.com'
-            target='_blank'
+            target='_parent'
             className='footer-icon'
           >
             <i className='fab fa-twitter' />
@@ -47,7 +47,7 @@ const Footer = () => {
         <li>
           <a
             href='https://www.twitter.com'
-            target='_blank'
+            target='_parent'
             className='footer-icon'
           >
             <i className='fab fa-squarespace' />
