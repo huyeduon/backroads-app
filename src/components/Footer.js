@@ -29,7 +29,7 @@ const Footer = () => {
         <li>
           <a
             href='https://www.twitter.com'
-            target='_blank'
+            target='#footer'
             className='footer-icon'
           >
             <i className='fab fa-facebook' />
