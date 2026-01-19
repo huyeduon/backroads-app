@@ -37,7 +37,7 @@ const Footer = () => {
         </li>
         <li>
           <a
-            href='https://www.twitter.com'
+            href='https://www.facebook.com'
             target='_parent'
             className='footer-icon'
           >
@@ -46,7 +46,7 @@ const Footer = () => {
         </li>
         <li>
           <a
-            href='https://www.twitter.com'
+            href='https://www.squarespace.com/'
             target='_parent'
             className='footer-icon'
           >
